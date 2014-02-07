@@ -19,3 +19,8 @@ local.properties
 .classpath
 .project
 .settings/
+
+#Mac file
+.DS_Store
+Thumbs.db
+
